@@ -10,7 +10,7 @@ mkdir -p "$ACTIVATE_LICENSE_PATH"
 #
 # Run steps
 #
-source /steps/install-blender.sh
+# source /steps/install-blender.sh
 source /steps/set_gitcredential.sh
 source /steps/activate.sh
 source /steps/build.sh
